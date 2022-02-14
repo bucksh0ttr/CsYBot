@@ -18,6 +18,6 @@ You don't need to have nightmares at night. protects your server. It protects fr
 Don't feel alone. Translate from English to your own language immediately. Let's post it now and give you a role!
 <br>
 ## Terms and Privacy Policy;
-🚧 **Privacy:** https://docs.csycraft.xyz/rules/privacy
+🚧 **Privacy:** https://csybot.csycraft.xyz/rules/privacy
 
-🚧 **Terms:** https://docs.csycraft.xyz/rules/terms
+🚧 **Terms:** https://csybot.csycraft.xyz/rules/terms
