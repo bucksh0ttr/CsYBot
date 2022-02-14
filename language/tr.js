@@ -1,4 +1,4 @@
-{
+module.exports = {
   // Embeds
   "error": "Hata",
   "info": "Bilgi",
