@@ -150,7 +150,7 @@ module.exports = {
   
   // Invite
   "invite_text_title": "<a:tac:795632061406642176> %var% Sunucuya Ekle <a:tac:795632061406642176>",
-  "invite_text_description": "Bizimle Daima İleri!\n\n**Muhteşem Özelliklerle CsYBot Eklemek ister misiniz?** \n\n Bizi Desteklemek ve Harika Özellikler Kazanmak İçin [Tıklayın](%var%)",
+  "invite_text_description": "Bizimle Daima İleri!\n\n**Muhteşem Özelliklerle CsYBot Eklemek ister misiniz?** \n\nBizi Desteklemek ve Harika Özellikler Kazanmak İçin [Tıklayın](%var%)",
   
   // Premium
   "premium_none": "Bir Premium Kod Girmelisiniz",
