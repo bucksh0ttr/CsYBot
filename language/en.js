@@ -151,7 +151,7 @@ module.exports = {
   
   // Invite
   "invite_text_title": "<a:tac:795632061406642176> %var% Adding to Server <a:tac:795632061406642176>",
-  "invite_text_description": "Always Forward With Us! \n\n**CsYBot with Great Features Would you like to add it?** \n\n To Support Us And Gain Great Features [Click](%var%)",
+  "invite_text_description": "Always Forward With Us! \n\n**CsYBot with Great Features Would you like to add it?** \n\nTo Support Us And Gain Great Features [Click](%var%)",
   
   // Premium
   "premium_none": "You Must Enter a Premium Code",
