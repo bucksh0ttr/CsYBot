@@ -1,4 +1,4 @@
-{
+module.exports = {
   // Embeds
   "error": "Error",
   "info": "Info",
