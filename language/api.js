@@ -1,4 +1,4 @@
-module.exports = {
+{
   "error": "Error",
   "info": "Info",
   "success": "Successful",
@@ -123,13 +123,13 @@ module.exports = {
   "premium_expire": "Last Remaining Expiration of Premium: <t:%var%:R>",
   "premium_this_yes": "Yes This Server Is Premium! To Find Out The Remaining Time ``/premium-times``",
   "premium_this_no": "No This Server Is Not Premium!",
-  "premium_buy": `**<a:tac:795632061406642176> Informations <a:tac:795632061406642176>**
-\nHello Premium System Your Server Is Premium Premium Size
-Will Provide Some Great Features Premium is **$1**\n
-**How Do I Buy?**
-For buy: %var%
-\n**Have a Premium Code?**\nIt's So Beautiful Use It Now: \`\`/premium-code <code>\`\`\n\n**So Is This Server Premium?** 
-%var%`,
+  "premium_buy": "<a:tac:795632061406642176> Informations <a:tac:795632061406642176>**" +
+"\nHello Premium System Your Server Is Premium Premium Size" +
+"Will Provide Some Great Features Premium is **$1**\n" +
+"**How Do I Buy?**" +
+"For buy: %var%" +
+"\n**Have a Premium Code?**\nIt's So Beautiful Use It Now: ``/premium-code <code>``\n\n**So Is This Server Premium?**" +
+"%var%",
   "premium_buy_desc": "Thanks, Your Server is Now Premium! **\"__Now Forward is Closer!__\"**",
   "react_already": "A React with this identity already exists.",
   "react_max": "(%var%/%var%) Reaction Limit Exceeded!",
@@ -158,14 +158,14 @@ For buy: %var%
   "shop_item_not_found": "The Item Is No Longer For Sale Or Something Like This Never Existed!",
   "shop_price_no": "**(__%var%/%var%__)** **(__%var%__)** You Don't Have Enough Money To Buy Your Item!",
   "shop_waiting": "``%var% - %var%`` Are you sure you want to buy the product?\n **Note:** __You Can Never Be Refunded!__",
-  "shop_result_code": `You Have Successfully Purchased **(__%var%__)** Product.
-      **__Here is your Premium Code:__** \`\`%var%\`\``,
-  "shop_result_template": `You Have Successfully Purchased **(__%var%__)** Product.
-      **__Here is your Secret Code:__** \`\`%var%\`\`
-      **__Here is your Download Link:__** [link](%var%)`,
+  "shop_result_code": "You Have Successfully Purchased **(__%var%__)** Product." +
+  "    **__Here is your Premium Code:__** ``%var%``",
+  "shop_result_template": "You Have Successfully Purchased **(__%var%__)** Product." +
+      "**__Here is your Secret Code:__** ``%var%``" +
+      "**__Here is your Download Link:__** [link](%var%)",
   "shop_purchased": "**(__%var%__)** Item Purchased Successfully!",
   "shop_rejected": "Successfully Rejected, You Can Buy It Anytime!",
-  "shop_list": `%var%\n**How Do I Buy?**\nYou Need To Know The Name Of The Product You Will Buy Then Just Write\`\`/shop <item-id>\`\`!`,
+  "shop_list": "%var%\n**How Do I Buy?**\nYou Need To Know The Name Of The Product You Will Buy Then Just Write ``/shop <item-id>``!",
   "shop_level_min": "**(__%var%/%var%__)** **(__%var%__)** You Don't Have Enough Level To Buy Your Item!",
   "steam_title": "Steam Store",
   "steam_game_id": "Game ID",
@@ -189,21 +189,21 @@ For buy: %var%
   "brain_success_opened": "Activated Successfully! You Can Use CsYBot Artificial Intelligence.",
   "brain_success_reject": "Successfully Rejected, You Can Open Anytime!",
   "protect_message": "This Server is Protected by CsYBot!",
-  "term_policies_desc": `Hi <@%var%>,
-You must accept the rules for use CsYBot
-
-↳ Contact the developers via __**%var%**__ in an find bug on the bot.
-↳ Do not use commands to ping the bot.
-↳ Do not open a bot-like & same bot, do not create its infrastructure.
-↳ The responsibility of illegal (trojen, token grabber, etc.) files you make with the bot belongs to the account.
-↳ Pay attention to the Discord Community Guidelines.
-↳ Number of People Accepting: (\`\`%var%\`\`)
-
-↳ Our data storage policy;
-All the information is on our site.`,
+  "term_policies_desc": "Hi <@%var%>," +
+"You must accept the rules for use CsYBot" +
+"" +
+"↳ Contact the developers via __**%var%**__ in an find bug on the bot." +
+"↳ Do not use commands to ping the bot." +
+"↳ Do not open a bot-like & same bot, do not create its infrastructure." +
+"↳ The responsibility of illegal (trojen, token grabber, etc.) files you make with the bot belongs to the account." +
+"↳ Pay attention to the Discord Community Guidelines." +
+"↳ Number of People Accepting: (``%var%``)" +
+"" +
+"↳ Our data storage policy;" +
+"All the information is on our site.",
   "captcha_wait": "What do you see in the picture?",
   "captcha_error": "Human verification failed",
   "level_max": "You have reached the max Level. (%var%)",
   "code_download": "You can download and use from below",
-  "code_list": `%var%\n\n**How Do I Download Codes?**\nAfter Knowing the ID of the Code You Will Get, It Is Enough to Write It \`\`/code get <code-id>\`\`!`
+  "code_list": "%var%\n\n**How Do I Download Codes?**\nAfter Knowing the ID of the Code You Will Get, It Is Enough to Write It ``/code get <code-id>``!"
 }
