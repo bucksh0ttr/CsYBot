@@ -123,7 +123,7 @@
   "premium_expire": "Last Remaining Expiration of Premium: <t:%var%:R>",
   "premium_this_yes": "Yes This Server Is Premium! To Find Out The Remaining Time ``/premium-times``",
   "premium_this_no": "No This Server Is Not Premium!",
-  "premium_buy": "<a:tac:795632061406642176> Informations <a:tac:795632061406642176>**" +
+  "premium_buy": '<a:tac:795632061406642176> Informations <a:tac:795632061406642176>**' +
 "\nHello Premium System Your Server Is Premium Premium Size" +
 "Will Provide Some Great Features Premium is **$1**\n" +
 "**How Do I Buy?**" +
