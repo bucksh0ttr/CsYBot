@@ -244,7 +244,7 @@ Satın almak için: %var%
   // Brain
   "brain_null": "Lütfen Bir Soru Belirtin!",
   "brain_perm_valid": "Bu Komut Sunucu Yöneticisi Tarafından Önce Kullanılmalıdır!",
-  "brain_term_info": "Öncelikle bu sistem sadece Türkçe sonuçları ve Türkçe soruları almalıdır.\nTürkçe Konuştuğunuzu %100 kabul etmelisiniz.\n **Not:** __Sonuçlardan asla sorumlu tutulamayız!__",
+  "brain_term_info": "Öncelikle bu sistem İngilizce olarak üretilmiştir. Çeviri hataları olabilir.\nBir hata olduğunu düşünüyorsanız bizimle iletişime geçebilirsiniz.\n**Not:** __Sonuçlardan asla sorumlu tutulamayız!__",
   "brain_success_opened": "Başarıyla Etkinleştirildi! CsYBot Yapay Zekasını Kullanabilirsiniz.",
   "brain_success_reject": "Başarıyla Reddedildi, İstediğiniz Zaman Açabilirsiniz!",
   
