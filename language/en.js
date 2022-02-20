@@ -246,7 +246,7 @@ For buy: %var%
   // Brain
   "brain_null": "Please State a Question!",
   "brain_perm_valid": "This Command Cannot Be Used Without Activation by a Server Administrator!",
-  "brain_term_info": "First of all, this system is produced in English. There may be translation errors.\nYou can contact us if you think there is an error.\n**Note:** __We can never be held responsible for the results!__",
+  "brain_term_info": "First of all, this system is produced in English. There may be translation errors.\nYou can contact us if you think there is an error.\n\n**Note:** __We can never be held responsible for the results!__",
   "brain_success_opened": "Activated Successfully! You Can Use CsYBot Artificial Intelligence.",
   "brain_success_reject": "Successfully Rejected, You Can Open Anytime!",
   
