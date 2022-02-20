@@ -92,21 +92,17 @@ module.exports = {
   
   // Success
   "success_behavior": "Système **comportement :** ``%var%`` modifié avec succès",
-  "daily_reward": "
-**(%var%)** Crypto que vous avez gagné ! Revenez demain !",
+  "daily_reward": "**(%var%)** Crypto que vous avez gagné ! Revenez demain !",
   
   
   // Advertise
-  "advertise_not_found": "
-La dernière annonce n'a pas été trouvée.",
+  "advertise_not_found": "La dernière annonce n'a pas été trouvée.",
   
   // Swear
-  "swear_not_found": "Le dernier gros mot n'a pas été trouvé.
-",
+  "swear_not_found": "Le dernier gros mot n'a pas été trouvé.",
   
   //Auto Role
-  "autorole_not_active": "Le système AutoRole n'est pas actif !
-",
+  "autorole_not_active": "Le système AutoRole n'est pas actif !",
     // * Reseting
   "autorole_success_close": "Avec succès, AutoRole fermé !",
   
