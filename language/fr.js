@@ -250,6 +250,7 @@ Pour acheter: %var%
   "brain_term_info": "Tout d'abord, ce système est produit en anglais. Il peut y avoir des erreurs de traduction.\nVous pouvez nous contacter si vous pensez qu'il y a une erreur.\n\n**Remarque :** __Nous ne pouvons jamais être tenus responsables des résultats !__",
   "brain_success_opened": "Activé avec succès ! Vous pouvez utiliser l'intelligence artificielle CsYBot.",
   "brain_success_reject": "Rejeté avec succès, vous pouvez ouvrir à tout moment !",
+  "brain_problem": "J'ai parlé à 3 000 personnes cette semaine. Je suis fatigué.",
   
   // Main Protector
   "protect_message": "Ce serveur est protégé par CsYBot!",
