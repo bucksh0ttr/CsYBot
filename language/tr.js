@@ -247,7 +247,7 @@ Satın almak için: %var%
   "brain_term_info": "Öncelikle bu sistem İngilizce olarak üretilmiştir. Çeviri hataları olabilir.\nBir hata olduğunu düşünüyorsanız bizimle iletişime geçebilirsiniz.\n\n**Not:** __Sonuçlardan asla sorumlu tutulamayız!__",
   "brain_success_opened": "Başarıyla Etkinleştirildi! CsYBot Yapay Zekasını Kullanabilirsiniz.",
   "brain_success_reject": "Başarıyla Reddedildi, İstediğiniz Zaman Açabilirsiniz!",
-  "brain_problem": "Bu hafta 3 bin kişiyle konuştum. Yorgunum.",
+  "brain_problem": "Bu hafta 3,000 kişi ile konuştum. Yorgunum.",
   
   // Main Protector
   "protect_message": "Bu Sunucu CsYBot Tarafından Korunmaktadır!",
