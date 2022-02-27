@@ -277,5 +277,8 @@ All the information is on our site.`,
   
   // Code
   "code_download": "You can download and use from below",
-  "code_list": `%var%\n\n**How Do I Download Codes?**\nAfter Knowing the ID of the Code You Will Get, It Is Enough to Write It \`\`/code get <code-id>\`\`!`
+  "code_list": `%var%\n\n**How Do I Download Codes?**\nAfter Knowing the ID of the Code You Will Get, It Is Enough to Write It \`\`/code get <code-id>\`\`!`,
+  
+  // Button
+  "button_owner": "You cannot answer that!"
 }
