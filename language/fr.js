@@ -278,5 +278,8 @@ Toutes les informations sont sur notre site.`,
   
   // Code
   "code_download": "Vous pouvez télécharger et utiliser ci-dessous",
-  "code_list": `%var%\n\n**Comment télécharger des codes ? **\nAprès avoir connu l'ID du code que vous obtiendrez, il suffit de l'écrire \`\`/code get <code-id>\`\`!`
+  "code_list": `%var%\n\n**Comment télécharger des codes ? **\nAprès avoir connu l'ID du code que vous obtiendrez, il suffit de l'écrire \`\`/code get <code-id>\`\`!`,
+  
+  // Button
+  "button_owner": "Vous ne pouvez pas répondre à ça !"
 }
