@@ -275,5 +275,8 @@ Tüm bilgiler sitemizde yer almaktadır.`,
   
   // Code
   "code_download": "Aşağıdan indirip kullanabilirsiniz",
-  "code_list": `%var%\n\n**Nasıl Kodları İndiririm?**\nAlacağınız Kodun Kimliğini Bilmelisiniz Sonra Yazmanız Yeterli \`\`/code get <code-id>\`\`!`
+  "code_list": `%var%\n\n**Nasıl Kodları İndiririm?**\nAlacağınız Kodun Kimliğini Bilmelisiniz Sonra Yazmanız Yeterli \`\`/code get <code-id>\`\`!`,
+  
+  // Button
+  "button_owner": "Buna siz yanıt veremezsiniz!"
 }
