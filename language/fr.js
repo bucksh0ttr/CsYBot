@@ -281,5 +281,6 @@ Toutes les informations sont sur notre site.`,
   "code_list": `%var%\n\n**Comment télécharger des codes ? **\nAprès avoir connu l'ID du code que vous obtiendrez, il suffit de l'écrire \`\`/code get <code-id>\`\`!`,
   
   // Button
-  "button_owner": "Vous ne pouvez pas répondre à ça !"
+  "button_owner": "Vous ne pouvez pas répondre à ça !",
+  "button_success": "Aramıza hoşgeldin! Tekrar kullanmayı deneyin."
 }
