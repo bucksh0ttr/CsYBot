@@ -282,5 +282,5 @@ Toutes les informations sont sur notre site.`,
   
   // Button
   "button_owner": "Vous ne pouvez pas répondre à ça !",
-  "button_success": "Aramıza hoşgeldin! Tekrar kullanmayı deneyin."
+  "button_success": "Bienvenue au club! Essayez de l'utiliser à nouveau."
 }
