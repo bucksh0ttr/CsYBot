@@ -278,5 +278,6 @@ Tüm bilgiler sitemizde yer almaktadır.`,
   "code_list": `%var%\n\n**Nasıl Kodları İndiririm?**\nAlacağınız Kodun Kimliğini Bilmelisiniz Sonra Yazmanız Yeterli \`\`/code get <code-id>\`\`!`,
   
   // Button
-  "button_owner": "Buna siz yanıt veremezsiniz!"
+  "button_owner": "Buna siz yanıt veremezsiniz!",
+  "button_success": "Aramıza hoşgeldin! Tekrar kullanmayı deneyin."
 }
