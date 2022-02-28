@@ -280,5 +280,6 @@ All the information is on our site.`,
   "code_list": `%var%\n\n**How Do I Download Codes?**\nAfter Knowing the ID of the Code You Will Get, It Is Enough to Write It \`\`/code get <code-id>\`\`!`,
   
   // Button
-  "button_owner": "You cannot answer that!"
+  "button_owner": "You cannot answer that!",
+  "button_success": "Welcome to the club! Try using it again."
 }
