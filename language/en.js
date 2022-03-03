@@ -176,6 +176,13 @@ For buy: %var%
   "react_not_found": "No reaction found.",
   "react_deleted": "**Successfully Deleted (%var%)**",
   
+  // Vote Tracker
+  "votetracker_max": "(%var%/%var%) Vote Tracker limit Exceeded!",
+  "votetracker_already": "A Vote Tracker with this ID already exists.",
+  "votetracker_not_found": "Vote Tracker Not Found!",
+  "votetracker_deleted": "**Successfully Deleted (%var%)**",
+  "votetracker_success": "**Successfully Added Vote Tracker!**",
+  
   // Security
   "security_not_active": "Security System Not Active!",
   "security_success_closed": "Successfully, Security Closed!",
