@@ -175,6 +175,13 @@ Satın almak için: %var%
   "react_not_found": "Emoji Rol bulunamadı.",
   "react_deleted": "**Başarıyla Silindi (%var%)**",
   
+  // Vote Tracker
+  "votetracker_max": "(%var%/%var%) Vote Tracker limiti Aşıldı!",
+  "votetracker_already": "Bu kimliğe sahip bir Vote Tracker zaten var.",
+  "votetracker_not_found": "Vote Tracker Bulunamadı!",
+  "votetracker_deleted": "**Başarıyla Silindi (%var%)**",
+  "votetracker_success": "**Başarıyla Vote Tracker Eklendi!**",
+  
   // Security
   "security_not_active": "Güvenlik Sistemi Aktif Değil!",
   "security_success_closed": "Başarıyla, Güvenlik Kapatıldı!",
