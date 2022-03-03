@@ -177,6 +177,13 @@ Pour acheter: %var%
   "react_not_found": "Aucune réaction trouvée.",
   "react_deleted": "**Supprimé avec succès (%var%)**",
   
+  // Vote Tracker
+  "votetracker_max": "(%var%/%var%) Limite du suivi des votes dépassée !",
+  "votetracker_already": "Un Vote Tracker avec cet ID existe déjà.",
+  "votetracker_not_found": "Le suivi des votes n'a pas été trouvé !",
+  "votetracker_deleted": "**Supprimé avec succès (%var%)**",
+  "votetracker_success": "**Suivi des votes ajouté avec succès !**",
+  
   // Security
   "security_not_active": "Le système de sécurité n'est pas actif !",
   "security_success_closed": "Avec succès, sécurité fermée !",
