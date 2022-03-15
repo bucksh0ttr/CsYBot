@@ -9,7 +9,7 @@
 :technologist: **Wiki:** https://docs.csycraft.xyz/csybot
 
 ## Support Us;
-🪙 **Premium:** https://docs.csycraft.xyz/premium
+🪙 **Premium:** https://csybot.csycraft.xyz/premium
 <br>
 ## What does csybot do;
 You don't need to have nightmares at night. protects your server. It protects from all spam, ads, tags. Become a Community Server!
