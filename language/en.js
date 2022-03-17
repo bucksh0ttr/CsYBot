@@ -288,5 +288,19 @@ All the information is on our site.`,
   
   // Button
   "button_owner": "You cannot answer that!",
-  "button_success": "Welcome to the club! Try using it again."
+  "button_success": "Welcome to the club! Try using it again.",
+  
+  // Web Join Protect
+  "webprotect_not_active": "Web Join Protect System Not Active!",
+    // * Reseting
+  "webprotect_success_close": "Successfully, Web Join Protect Closed!",
+  
+    // * Setting
+  "webprotect_renewed": "**Successfully Renewed Web Join Protect System!**",
+  "webprotect_opened": "**Successfully Opened Web Join Protect System!**",
+  "webprotect_run_desc": "To complete your registration. You Must Verify You Are Not A Bot. Connect to This Site (Click)[%var%]",
+  "webprotect_run_title": "<@%var%>, Welcome!",
+  
+    // * Info
+  "webprotect_info": "**Your Information About Web Join Protect System**",
 }
