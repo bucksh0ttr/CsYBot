@@ -286,5 +286,19 @@ Tüm bilgiler sitemizde yer almaktadır.`,
   
   // Button
   "button_owner": "Buna siz yanıt veremezsiniz!",
-  "button_success": "Aramıza hoşgeldin! Tekrar kullanmayı deneyin."
+  "button_success": "Aramıza hoşgeldin! Tekrar kullanmayı deneyin.",
+  
+  // Web Join Protect
+  "webprotect_not_active": "Web Join Protect Sistemi Aktif Değil!",
+    // * Reseting
+  "webprotect_success_close": "Başarıyla, Web Join Protect Kapatıldı!",
+  
+    // * Setting
+  "webprotect_renewed": "**Web Join Protect Sistemi Başarıyla Yenilendi!**",
+  "webprotect_opened": "**Başarıyla Açıldı Web Join Protect Sistemi!**",
+  "webprotect_run_desc": "Kaydınızı tamamlamak için. Bot Olmadığınızı Doğrulamalısınız. Bu Siteye Bağlan [Tıkla](%var%)",
+  "webprotect_run_title": "<@%var%>, Hoş Geldiniz!",
+  
+    // * Info
+  "webprotect_info": "**Web Join Protect Sistemi Hakkında Bilgileriniz**",
 }
