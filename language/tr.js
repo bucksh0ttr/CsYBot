@@ -278,7 +278,7 @@ Tüm bilgiler sitemizde yer almaktadır.`,
   "captcha_error": "İnsan doğrulaması başarısız oldu",
  
   // Level
-  "level_max": "You have reached the max Level. (%var%)",
+  "level_max": "Maksimum Seviyeye ulaştınız. (%var%)",
   
   // Code
   "code_download": "Aşağıdan indirip kullanabilirsiniz",
