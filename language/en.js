@@ -298,7 +298,7 @@ All the information is on our site.`,
     // * Setting
   "webprotect_renewed": "**Successfully Renewed Web Join Protect System!**",
   "webprotect_opened": "**Successfully Opened Web Join Protect System!**",
-  "webprotect_run_desc": "To complete your registration. You Must Verify You Are Not A Bot. Connect to This Site (Click)[%var%]",
+  "webprotect_run_desc": "To complete your registration. You Must Verify You Are Not A Bot. Connect to This Site [Click](%var%)",
   "webprotect_run_title": "<@%var%>, Welcome!",
   
     // * Info
