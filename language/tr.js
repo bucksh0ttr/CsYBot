@@ -298,6 +298,7 @@ Tüm bilgiler sitemizde yer almaktadır.`,
   "webprotect_opened": "**Başarıyla Açıldı Web Join Protect Sistemi!**",
   "webprotect_run_desc": "Kaydınızı tamamlamak için. Bot Olmadığınızı Doğrulamalısınız. Bu Siteye Bağlan [Tıkla](%var%)",
   "webprotect_run_title": "<@%var%>, Hoş Geldiniz!",
+  "webprotect_success": "**<@%var%>, Captcha Confirmed and Joined Us. Welcome.**",
   
     // * Info
   "webprotect_info": "**Web Join Protect Sistemi Hakkında Bilgileriniz**",
