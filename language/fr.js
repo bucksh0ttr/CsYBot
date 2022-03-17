@@ -289,5 +289,19 @@ Toutes les informations sont sur notre site.`,
   
   // Button
   "button_owner": "Vous ne pouvez pas répondre à ça !",
-  "button_success": "Bienvenue au club! Essayez de l'utiliser à nouveau."
+  "button_success": "Bienvenue au club! Essayez de l'utiliser à nouveau.",
+
+  // Web Join Protect
+  "webprotect_not_active": "Le système de protection des jointures Web n'est pas actif!",
+    // * Reseting
+  "webprotect_success_close": "Avec succès, Web Join Protect fermé!",
+  
+    // * Setting
+  "webprotect_renewed": "**Web Join Protect System renouvelé avec succès!**",
+  "webprotect_opened": "**Web Join Protect System ouvert avec succès!**",
+  "webprotect_run_desc": "Pour terminer votre inscription. Vous devez vérifier que vous n'êtes pas un bot. Se connecter à ce site [Clic](%var%)",
+  "webprotect_run_title": "<@%var%>, bienvenue!",
+  
+    // * Info
+  "webprotect_info": "**Vos informations sur le système Web Join Protect**",
 }
