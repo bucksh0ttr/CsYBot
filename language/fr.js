@@ -301,6 +301,7 @@ Toutes les informations sont sur notre site.`,
   "webprotect_opened": "**Web Join Protect System ouvert avec succès!**",
   "webprotect_run_desc": "Pour terminer votre inscription. Vous devez vérifier que vous n'êtes pas un bot. Se connecter à ce site [Clic](%var%)",
   "webprotect_run_title": "<@%var%>, bienvenue!",
+  "webprotect_success": "**<@%var%>, Captcha a confirmé et nous a rejoint. Bienvenue.**",
   
     // * Info
   "webprotect_info": "**Vos informations sur le système Web Join Protect**",
