@@ -300,6 +300,7 @@ All the information is on our site.`,
   "webprotect_opened": "**Successfully Opened Web Join Protect System!**",
   "webprotect_run_desc": "To complete your registration. You Must Verify You Are Not A Bot. Connect to This Site [Click](%var%)",
   "webprotect_run_title": "<@%var%>, Welcome!",
+  "webprotect_success": "**<@%var%>, Captcha Confirmed and Joined Us. Welcome.**",
   
     // * Info
   "webprotect_info": "**Your Information About Web Join Protect System**",
