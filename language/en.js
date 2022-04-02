@@ -306,4 +306,9 @@ All the information is on our site.`,
   
     // * Info
   "webprotect_info": "**Your Information About Web Join Protect System**",
+  
+  // Url Shorting
+  "short_max": "The Max Url Shortening Limit on Our Services Has Been Reached",
+  "short_char": "Max Url Character Limit Exceeded",
+  "short_success": "Successfully Shortened Url",
 }
