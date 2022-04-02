@@ -67,6 +67,8 @@ module.exports = {
   // Errors
   "select_box": "Veuillez Ouvrir-Fermer Sélectionner (ouvrir/fermer)**Maintenant:** ``%var%``",
   "already_box": "Comportement du système déjà défini sur ``%var%``",
+  "url_none": "Vous devez entrer un lien URL",
+  "url_valid": "Vous devez entrer un lien URL valide",
   "user_none": "Vous devez entrer un utilisateur",
   "user_id_none": "Vous devez saisir un ID utilisateur",
   "time_none": "Vous devez saisir une heure",
