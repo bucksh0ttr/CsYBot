@@ -67,6 +67,8 @@ module.exports = {
   // Errors
   "select_box": "Please Open-Close Select (open/close) **Now:** ``%var%``",
   "already_box": "System Behavior Already Set to ``%var%``",
+  "url_none": "You Must Enter a URL Link",
+  "url_valid": "You Must Enter a Valid URL Link",
   "user_none": "You Must Enter a User",
   "user_id_none": "You Must Enter a User ID",
   "time_none": "You Must Enter a Time",
