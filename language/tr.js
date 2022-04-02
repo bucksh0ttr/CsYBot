@@ -66,6 +66,8 @@ module.exports = {
   // Errors
   "select_box": "Lütfen Aç-Kapat Seçin (open/close) **Şimdi:** ``%var%``",
   "already_box": "Sistem Davranışı Zaten ``%var%`` Olarak Ayarlandı",
+  "url_none": "Bir URL Bağlantı Girmelisiniz",
+  "url_valid": "Geçerli Bir URL Bağlantı Girmelisiniz",
   "user_none": "Bir Kullanıcı Girmelisiniz",
   "user_id_none": "Bir Kullanıcı Kimliği Girmelisiniz",
   "time_none": "Bir Zaman Girmelisiniz",
