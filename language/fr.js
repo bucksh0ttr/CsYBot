@@ -307,4 +307,9 @@ Toutes les informations sont sur notre site.`,
   
     // * Info
   "webprotect_info": "**Vos informations sur le système Web Join Protect**",
+  
+  // Url Shorting
+  "short_max": "La limite maximale de raccourcissement d'URL sur nos services a été atteinte",
+  "short_char": "Limite maximale de caractères d'URL dépassée",
+  "short_success": "URL raccourcie avec succès",
 }
