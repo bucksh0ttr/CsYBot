@@ -304,4 +304,9 @@ Tüm bilgiler sitemizde yer almaktadır.`,
   
     // * Info
   "webprotect_info": "**Web Join Protect Sistemi Hakkında Bilgileriniz**",
+  
+  // Url Shorting
+  "short_max": "Servislerimizdeki Max Url Kısaltma Limitine Ulaşıldı",
+  "short_char": "Max Url Karakter Limit Aşıldı",
+  "short_success": "Başarıyla Url Kısaltıldı",
 }
