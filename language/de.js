@@ -284,4 +284,9 @@ module.exports = {
     
       // * Info
     "webprotect_info": "**Informationen zum Web Join Protect-System**",
+    
+    // Url Shorting
+    "short_max": "Das maximale URL-Kürzungslimit für unsere Dienste wurde erreicht",
+    "short_char": "Maximale URL-Zeichenbegrenzung überschritten",
+    "short_success": "URL erfolgreich gekürzt",
   }
