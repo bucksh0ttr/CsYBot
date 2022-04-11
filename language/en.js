@@ -311,4 +311,8 @@ All the information is on our site.`,
   "short_max": "The Max Url Shortening Limit on Our Services Has Been Reached",
   "short_char": "Max Url Character Limit Exceeded",
   "short_success": "Successfully Shortened Url",
+  
+  // Cooldown
+  "cooldown_title": "Wait",
+  "cooldown": "Please calm down ``%var%`` wait second..",
 }
