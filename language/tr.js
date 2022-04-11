@@ -309,4 +309,8 @@ Tüm bilgiler sitemizde yer almaktadır.`,
   "short_max": "Servislerimizdeki Max Url Kısaltma Limitine Ulaşıldı",
   "short_char": "Max Url Karakter Limit Aşıldı",
   "short_success": "Başarıyla Url Kısaltıldı",
+  
+  // Cooldown
+  "cooldown_title": "Bekle",
+  "cooldown": "Lütfen sakinleş ``%var%`` saniye bekle..",
 }
