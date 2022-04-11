@@ -289,4 +289,9 @@ module.exports = {
     "short_max": "Das maximale URL-Kürzungslimit für unsere Dienste wurde erreicht",
     "short_char": "Maximale URL-Zeichenbegrenzung überschritten",
     "short_success": "URL erfolgreich gekürzt",
+    
+  
+    // Cooldown
+    "cooldown_title": "Warte ab",
+    "cooldown": "Bitte beruhigen Sie ``%var%``, warten Sie eine Sekunde..",
   }
