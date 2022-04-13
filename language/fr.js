@@ -63,6 +63,7 @@ module.exports = {
   "commands_no": "Aucune commande !",
   "actived": "Activé",
   "deactived": "Désactivé",
+  "category": "Catégorie",
   
   // Errors
   "select_box": "Veuillez Ouvrir-Fermer Sélectionner (ouvrir/fermer)**Maintenant:** ``%var%``",
@@ -91,6 +92,8 @@ module.exports = {
   "time_out": "Aucune réponse reçue dans les délais requis !",
   "missing_permissions": "Vous avez besoin de l'autorisation **%var%** pour exécuter cette commande",
   "bot_missing_permissions": "J'ai besoin de l'autorisation **%var%** pour exécuter cette commande",
+  "category_none": "Vous devez saisir une catégorie",
+  "category_valid": "Vous devez entrer une catégorie valide",
   
   // Success
   "success_behavior": "Système **comportement :** ``%var%`` modifié avec succès",
