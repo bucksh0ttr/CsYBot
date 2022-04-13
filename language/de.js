@@ -62,6 +62,7 @@ module.exports = {
     "commands_no": "Kein Befehl!",
     "actived": "Aktiv",
     "deactived": "Nicht Aktiv",
+    "category": "Kategorie",
     
     // Errors
     "select_box": "Bitte wählen sie ein-ausschalten (open/close) **Jezt:** ``%var%``",
@@ -90,6 +91,8 @@ module.exports = {
     "time_out": "Keine Antwort in der erforderlichen Zeit erhalten!",
     "missing_permissions": "Sie benötigen die Berechtigung **%var%**, um diesen Befehl auszuführen",
     "bot_missing_permissions": "Ich brauche die Berechtigung **%var%**, um diesen Befehl auszuführen",
+    "category_none": "Sie müssen eine Kategorie eingeben",
+    "category_valid": "Sie müssen eine gültige Kategorie eingeben",
     
     // Success
     "success_behavior": "**Systemverhalten erfolgreich geändert: zu ** ``%var%``",
