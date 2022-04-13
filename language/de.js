@@ -306,6 +306,6 @@ module.exports = {
     "ticket_infos": "**Ihre Informationen zum Ticketsystem**",
     "ticket_deleted": "Ticketsystem erfolgreich deaktiviert",
     "ticket_max": "Es wurde bereits ein Ticket erstellt <#%var%>",
-    "ticket_sended_info": "Ticket erfolgreich erstellt!"
+    "ticket_sended_info": "Ticket erfolgreich erstellt!",
     "ticket_created": "Ticket erstellt <#%var%>",
   }
