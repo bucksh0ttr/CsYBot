@@ -327,6 +327,6 @@ All the information is on our site.`,
   "ticket_infos": "**Your Information About the Ticket System**",
   "ticket_deleted": "Ticket System Deactivated Successfully",
   "ticket_max": "There is already a ticket created <#%var%>",
-  "ticket_sended_info": "Successfully created a ticket!"
+  "ticket_sended_info": "Successfully created a ticket!",
   "ticket_created": "Ticket Created <#%var%>",
 }
