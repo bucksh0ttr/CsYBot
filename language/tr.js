@@ -318,13 +318,13 @@ Tüm bilgiler sitemizde yer almaktadır.`,
   "cooldown": "Lütfen sakinleş ``%var%`` saniye bekle..",
   
   // Ticket
-  "ticket_success": "**Système de tickets ouvert avec succès!**",
-  "ticket_info": "Cliquez pour créer un billet!",
-  "ticket_label": "Créer un billet",
-  "ticket_not_active": "Système de tickets inactif!",
-  "ticket_infos": "**Vos informations sur le système de tickets**",
-  "ticket_deleted": "Système de tickets désactivé avec succès",
-  "ticket_max": "Il y a déjà un ticket créé <#%var%>",
-  "ticket_sended_info": "Un ticket a été créé avec succès!"
-  "ticket_created": "Billet créé <#%var%>",
+  "ticket_success": "**Başarıyla Ticket Sistemi Açıldı!**",
+  "ticket_info": "Ticket oluşturmak için tıklayın!",
+  "ticket_label": "Ticket oluştur",
+  "ticket_not_active": "Ticket Sistemi Aktif Değil!",
+  "ticket_infos": "**Ticket Sistemi Hakkında Bilgileriniz**",
+  "ticket_deleted": "Ticket Sistemi Başarıyla Deaktif Edildi",
+  "ticket_max": "Oluşturulmuş zaten bir ticket var <#%var%>",
+  "ticket_sended_info": "Başarıyla ticket oluşturuldu!"
+  "ticket_created": "Ticket Oluşturuldu <#%var%>",
 }
