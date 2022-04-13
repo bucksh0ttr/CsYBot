@@ -63,6 +63,7 @@ module.exports = {
   "commands_no": "No Commands!",
   "actived": "Actived",
   "deactived": "DeActived",
+  "category": "Category",
   
   // Errors
   "select_box": "Please Open-Close Select (open/close) **Now:** ``%var%``",
@@ -91,6 +92,8 @@ module.exports = {
   "time_out": "No Response Received In The Required Time!",
   "missing_permissions": "You Need **%var%** Permission to Run This Command",
   "bot_missing_permissions": "I Need **%var%** Permission to Run This Command",
+  "category_none": "You Must Enter a Category",
+  "category_valid": "You Must Enter a Valid Category",
   
   // Success
   "success_behavior": "Successfully changed system **behavior:** ``%var%``",
