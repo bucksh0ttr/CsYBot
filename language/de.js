@@ -297,4 +297,15 @@ module.exports = {
     // Cooldown
     "cooldown_title": "Warte ab",
     "cooldown": "Bitte beruhigen Sie ``%var%``, warten Sie eine Sekunde..",
+    
+    // Ticket
+    "ticket_success": "**Ticketsystem erfolgreich geöffnet!**",
+    "ticket_info": "Klicken Sie hier, um ein Ticket zu erstellen!",
+    "ticket_label": "Ticket erstellen",
+    "ticket_not_active": "Ticketsystem nicht aktiv!",
+    "ticket_infos": "**Ihre Informationen zum Ticketsystem**",
+    "ticket_deleted": "Ticketsystem erfolgreich deaktiviert",
+    "ticket_max": "Es wurde bereits ein Ticket erstellt <#%var%>",
+    "ticket_sended_info": "Ticket erfolgreich erstellt!"
+    "ticket_created": "Ticket erstellt <#%var%>",
   }
