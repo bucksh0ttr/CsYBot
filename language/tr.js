@@ -325,6 +325,6 @@ Tüm bilgiler sitemizde yer almaktadır.`,
   "ticket_infos": "**Ticket Sistemi Hakkında Bilgileriniz**",
   "ticket_deleted": "Ticket Sistemi Başarıyla Deaktif Edildi",
   "ticket_max": "Oluşturulmuş zaten bir ticket var <#%var%>",
-  "ticket_sended_info": "Başarıyla ticket oluşturuldu!"
+  "ticket_sended_info": "Başarıyla ticket oluşturuldu!",
   "ticket_created": "Ticket Oluşturuldu <#%var%>",
 }
