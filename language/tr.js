@@ -62,6 +62,7 @@ module.exports = {
   "commands_no": "Komut Yok!",
   "actived": "Aktif",
   "deactived": "Aktif Değil",
+  "category": "Kategori",
   
   // Errors
   "select_box": "Lütfen Aç-Kapat Seçin (open/close) **Şimdi:** ``%var%``",
@@ -90,6 +91,8 @@ module.exports = {
   "time_out": "Gerekli Sürede Cevap Alınmadı!",
   "missing_permissions": "Bu Komutu Çalıştırmak için **%var%** İznine ihtiyacınız var",
   "bot_missing_permissions": "Bu Komutu Çalıştıra Bilmem İçin **%var%** İznine İhtiyacım Var",
+  "category_none": "Bir Kategori Girmelisiniz",
+  "category_valid": "Geçerli Bir Kategori Girmelisiniz",
   
   // Success
   "success_behavior": "Başarıyla değiştirildi sistem **davranışı:** ``%var%``",
