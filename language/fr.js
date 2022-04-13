@@ -319,4 +319,15 @@ Toutes les informations sont sur notre site.`,
   // Cooldown
   "cooldown_title": "Attendez",
   "cooldown": "Veuillez vous calmer ``%var%`` attendez une seconde..",
+  
+  // Ticket
+  "ticket_success": "**Système de tickets ouvert avec succès!**",
+  "ticket_info": "Cliquez pour créer un billet!",
+  "ticket_label": "Créer un billet",
+  "ticket_not_active": "Système de tickets inactif!",
+  "ticket_infos": "**Vos informations sur le système de tickets**",
+  "ticket_deleted": "Système de tickets désactivé avec succès",
+  "ticket_max": "Il y a déjà un ticket créé <#%var%>",
+  "ticket_sended_info": "Un ticket a été créé avec succès!"
+  "ticket_created": "Billet créé <#%var%>",
 }
