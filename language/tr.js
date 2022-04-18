@@ -222,7 +222,8 @@ Satın almak için: %var%
   "shop_purchased": "**(__%var%__)** Ürün Başarıyla Satın Alındı!",
   "shop_rejected": "Başarıyla Reddedildi, İstediğiniz Zaman Satın Alabilirsiniz!",
   "shop_list": `%var%\n**Nasıl Satın Alırım?**\nAlacağınız Ürünün Kimliğini Bilmelisiniz Sonra Yazmanız Yeterli\`\`/shop <item-id>\`\`!`,
-
+  "shop_level_min": "**(__%var%/%var%__)** Ürünü Satın Almak İçin **(__%var%__)** Gereklidir!",
+  
   // Steam
   "steam_title": "Steam Mağazası",
   "steam_game_id": "Oyun Kimliği",
